@@ -304,7 +304,7 @@ function App() {
           <div
             className="flex justify-center w-full h-48 mb-6"
             style={{
-              backgroundImage: "url('/miku.gif')",
+              backgroundImage: "url('https://media.discordapp.net/attachments/1408752649981136917/1416757155956265051/caption.gif?ex=692ae1ec&is=6929906c&hm=158c2ca6ff6b4ac23074e83fa39e608f1fbdf5733548195a6406cbcbb40c96b8&=')",
               backgroundRepeat: "no-repeat",
               backgroundPosition: "center",
               backgroundSize: "cover",
@@ -340,7 +340,7 @@ function App() {
                 `}
                 >
                   <Wand2 className="w-5 h-5" />
-                  {isAttacking ? "Stop Beam" : "Start Miku Beam"}
+                  {isAttacking ? "Stop Gubi" : "Start Gubi Boom"}
                 </button>
                 <button
                   onClick={() =>
@@ -529,7 +529,7 @@ function App() {
               ))}
               {logs.length === 0 && (
                 <div className="italic text-gray-500">
-                  {">"} Waiting for Miku's power...
+                  {">"} Waiting for Gubi's power...
                 </div>
               )}
             </div>
@@ -552,7 +552,7 @@ function App() {
           <span className="text-sm text-center text-gray-500">
             🎵 v1.0 made by{" "}
             <a
-              href="https://github.com/sammwyy/mikumikubeam"
+              href="qusanoz turkey chef"
               target="_blank"
               rel="noreferrer"
             >
