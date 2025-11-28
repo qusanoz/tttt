@@ -281,7 +281,7 @@ function App() {
       <div className="max-w-2xl mx-auto space-y-8">
         <div className="text-center">
           <h1 className="mb-2 text-4xl font-bold text-pink-500">
-            Miku Miku Beam
+            Gubi Is Fat
           </h1>
           <p
             className={`${
@@ -290,7 +290,7 @@ function App() {
                 : "text-white"
             }`}
           >
-            Because DDoS attacks are also cute and even more so when Miku does
+            qusanoz ddos ok but for turky and gubi is ddos
             them.
           </p>
         </div>
@@ -304,7 +304,7 @@ function App() {
           <div
             className="flex justify-center w-full h-48 mb-6"
             style={{
-              backgroundImage: "url('https://media.discordapp.net/attachments/1408752649981136917/1416757155956265051/caption.gif?ex=692ae1ec&is=6929906c&hm=158c2ca6ff6b4ac23074e83fa39e608f1fbdf5733548195a6406cbcbb40c96b8&=')",
+              backgroundImage: "url('https://media.discordapp.net/attachments/1000496902120423557/1028638076710424637/279316266_392433842748674_1229351349116374280_n.gif?ex=692ae05c&is=69298edc&hm=6dc145c4b9dd9a3a6dd770b157d9f1138becc7887a869d39c90a187f5f0eb454&=')",
               backgroundRepeat: "no-repeat",
               backgroundPosition: "center",
               backgroundSize: "cover",
