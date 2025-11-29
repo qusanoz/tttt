@@ -556,7 +556,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              @Sammwy
+              qusanoz turky chef
             </a>{" "}
             🎵
           </span>
